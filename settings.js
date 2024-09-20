@@ -2,29 +2,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "24102692931"
+global.ownername = "|•OKLMBOY•|"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
-global.ownernumber = '50931461936'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.ownernumber = '24102692931'  //creator number
+global.ownername = '|•OKLMBOY•|' //owner name
+global.botname = '|•OKLMBOY•|' //name of the bot
 
 //sticker details
-global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.packname = '|•OKLMBOY•|'
+global.author = 'FUCK•TOUT-LES_FDP_QUI_BZ_LES_MINEURS'
 
 //console view/theme
 global.themeemoji = '🗾'
 global.wm = "𝙎-𝙏𝞢𝞜"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
+global.link = 'NON JE TE DONNE PAS MON BOT'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['∆']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
